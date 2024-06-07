@@ -1,16 +1,16 @@
 {
-    "name": "gaa_attendance",
+    "name": "GAA Attendance",
     "short_name": "gaa_attendance",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Tracking Attendance",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
+            "src": "icons/android-icon-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
